@@ -4,7 +4,7 @@ Hello, and welcome to my personal portfolio.  My name is **Manasa Akella**, an
 
 ## Interests
 
-I am particularly interested in mechatronics, the application of robotics in manufacturing, product design, and research, design and testing.  After obtaining my Bachelor's degree,  I hope to return to a university to work towards earning a Master's degree in engineering.
+I am particularly interested in mechatronics, the application of robotics in manufacturing, product design, and research, design and testing.  After obtaining my Bachelor's degree,  I hope to return to university to work towards earning a Master's degree in engineering.
 
 ## Contact
 
